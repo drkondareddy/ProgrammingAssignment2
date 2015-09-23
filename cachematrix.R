@@ -68,3 +68,4 @@ cacheSolve <- function(x=matrix(), ...) {
 
 	## return the resulting matrix
     	return(m)
+    	}
